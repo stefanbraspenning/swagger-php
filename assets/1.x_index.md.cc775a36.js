@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.57dc5434.js";typeof location!="undefined"&&(location.href="/swagger-php/1.x/welcome.html");const l='{"title":"","description":"","frontmatter":{},"relativePath":"1.x/index.md","lastUpdated":1639752406857}',o={};function n(r,c,p,s,i,d){return a(),t("div")}var _=e(o,[["render",n]]);export{l as __pageData,_ as default};
